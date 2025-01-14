@@ -1,5 +1,5 @@
 ## Application workflows
-Audit, analysis, and optimization of clinical application workflows
+Analysis and optimization of clinical application workflows
 
 
 
