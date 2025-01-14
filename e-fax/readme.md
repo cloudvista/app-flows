@@ -3,7 +3,7 @@
 Analysis of the desired vs actual clinical workflows for e-fax processing
 
 
-|  Workflow Steps    |Lebanon|Palo Alto|Shreveport|Desired|
+|  Workflow Steps    |VA Lebanon|VA Palo Alto|VA Shreveport|Desired|
 |--------|-------|---------|----------|-------|
 | ![](img/step-human_25.png) Human   | 21 | 20 | 14 | ? |
 | ![](img/step-computer_25.png) Computer | 6  |  6 | 5  |  ? |   |
