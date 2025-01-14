@@ -9,3 +9,5 @@ The cloud app streaming technology was piloted at Valley Coastal Bend TX VA Medi
 
 Presentation:
 [CPRS Cloud Streaming-Texas VAMC](https://github.com/cloudvista/cprs-flows/blob/main/cloudstream/img/cloud-streaming-CPRS-2020.pdf)
+
+Reference: https://aws.amazon.com/appstream2
