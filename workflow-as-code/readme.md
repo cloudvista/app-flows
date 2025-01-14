@@ -56,7 +56,7 @@ journey
 ```
 
 ## Example 2
-__AI-generated Workflow Description and Graphic__
+__AI-generated Workflow Description and Graphic__  
 __AI PROMPT__
 ```text
 create user journey diagram in mermaid using the documentation provided
