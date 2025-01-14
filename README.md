@@ -1,8 +1,9 @@
 ## Application workflows
 Analysis and optimization of clinical application workflows.  These include:
 
-[AppStream](https://github.com/cloudvista/app-flows/tree/main/appstream#app-stream-workflow)  
-Streaming CPRS to clinicians as a web application the point of care  
+[Webtream](https://github.com/cloudvista/app-flows/tree/main/appstream#app-stream-workflow)  
+Streaming CPRS as a web application to the point of care 
+
 
 [e-Fax](https://github.com/cloudvista/app-flows/tree/main/e-fax#e-fax-workflow)  
 Managing care via digital fax communications  
