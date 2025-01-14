@@ -1,6 +1,6 @@
 ## App Stream Workflow
 
-Streaming the CPRS application from the VA Enterprise Cloud as a web application enables secure access to CPRS anytime, anywhere on any secure web, mobile, tablet, or desktop computer. This application streaming technology uses the same encrypted cloud streaming technology that Netflix uses to stream movies to millions of viewers every day.
+Streaming the CPRS application from the VA Enterprise Cloud as a web application enables secure access to CPRS anytime, anywhere on any web, mobile, tablet, or desktop computer. This application streaming technology uses the same encrypted cloud streaming technology that Netflix uses to stream movies to millions of viewers every day.
 
 ![](img/cloudstream-cprs.png)
 
