@@ -57,12 +57,13 @@ journey
 
 ## Example 2
 __AI-generated workflow description and graphic__  
-__AI PROMPT__
+
+AI PROMPT:
 ```text
 create user journey diagram in mermaid using the documentation provided
 [copy/pasted from CPRS user manual] for login to the CPRS client
 ```
-__AI REPONSE__
+AI REPONSE:
 ```text
 Based on the documentation provided, here's a detailed user journey diagram in Mermaid for logging into CPRS
 using both two-factor authentication with a PIV card and the alternative method with access and verify codes.
