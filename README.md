@@ -1,6 +1,5 @@
 ## Application workflows
-Analysis and optimization of clinical application workflows.  
-Workflow analytics underway include:
+Analysis and optimization of clinical application workflows.  These include:
 
 [AppStream](https://github.com/cloudvista/app-flows/tree/main/appstream#app-stream-workflow)  
 Streaming CPRS to clinicians as a web application the point of care  
