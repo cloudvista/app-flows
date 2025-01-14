@@ -17,8 +17,7 @@ Workflow diagrams may be represented as:
 
 
 
-## Example 1
-__Description of User Journey for logging in to CPRS__
+#### Example 1: Description of User Journey for logging in to CPRS
 ```text
 journey
     title User Login Journey
@@ -55,18 +54,14 @@ journey
       User is redirected to the dashboard: 5: User
 ```
 
-## Example 2
-__AI-generated workflow description and graphic__  
-
+#### Example 2: AI-generated workflow description and graphic
+__AI Prompt__:
 ```text
-AI PROMPT:
-
 create user journey diagram in mermaid using the documentation provided
 [copy/pasted from CPRS user manual] for login to the CPRS client
 ```
+__AI Response__:
 ```text
-AI REPONSE:
-
 Based on the documentation provided, here's a detailed user journey diagram in Mermaid for logging into CPRS
 using both two-factor authentication with a PIV card and the alternative method with access and verify codes.
 
