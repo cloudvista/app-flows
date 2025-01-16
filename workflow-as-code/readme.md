@@ -35,7 +35,7 @@ journey
       User is redirected to the dashboard: 5: User
 ```
 
-__Mermaid auto-generated Graphic__
+__Auto-generated Mermaid Graphic__
 
 ```mermaid
 journey
