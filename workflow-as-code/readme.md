@@ -17,7 +17,7 @@ Workflow diagrams may be represented as:
 
 
 
-#### Example 1: Description of User Journey for logging in to CPRS
+#### Example 1: Description of User Journey for logging in to CPRS in Mermaid syntax
 ```text
 journey
     title User Login Journey
@@ -35,7 +35,7 @@ journey
       User is redirected to the dashboard: 5: User
 ```
 
-__Auto-generated Graphic__
+__Mermaid auto-generated Graphic__
 
 ```mermaid
 journey
